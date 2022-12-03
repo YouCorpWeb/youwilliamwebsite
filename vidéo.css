@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+#navigation {
+    background-color: rgba(2, 2, 175, 0.527); 
+    border-radius: 3px;
+    color: white;
+    padding: 10px 100px;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(141, 0, 0);
+}
+
+p {
+    color: white;
+}

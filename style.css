@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+p {
+    color: royalblue;
+    line-height: 1.5em;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    text-align: center;
+    color: aqua;
+}
+
+#navigation {
+    background-color: rgba(2, 2, 175, 0.527); 
+    border-radius: 3px;
+    color: white;
+    padding: 10px 100px;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    margin: 0 5px;
+}
+
+a.social {
+    color: #666;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: rgba(102, 90, 93, 0.329);
+    padding: 10px;
+}
+
+label {
+    color: white;
+}
